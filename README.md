@@ -4,4 +4,4 @@
 
 ###### Wordpres Plugin For : Integrate Wordpress To Kendo UI ######
 
-WordPress-KendoUI-Grid : Short Code , List , Add , Updat , Delete 
+WordPress-KendoUI-Grid : Short Code , List , Add , Update , Delete 
